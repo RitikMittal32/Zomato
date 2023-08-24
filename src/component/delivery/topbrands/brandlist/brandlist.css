@@ -1,0 +1,30 @@
+.brand-item-cover{
+          height:120px;
+          width:180px;
+          background-color: var(--primary-bg);
+          box-shadow: var(--collection-shadow);
+          margin-bottom: 100px;
+}
+
+.brand-item-image{
+          object-fit: cover;
+          height:100%;
+          width:100%;
+          border-radius: 10px;
+}
+.brand-item-title{
+          font-size:15px;
+          font-weight: 600;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          margin-top: 6px;
+
+}
+
+.brand-item-time{
+          font-size:15px;
+          font-weight: 500;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          margin-top: 6px;
+}
