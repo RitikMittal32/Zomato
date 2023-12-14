@@ -8,6 +8,7 @@ import DiningOut from '../component/diningout/diningout';
 import Nightlife from '../component/nightlife/nightlife';
 
 
+
 const Home = () => {
 
   const [activeTab,setActiveTab] = useState(" ")
